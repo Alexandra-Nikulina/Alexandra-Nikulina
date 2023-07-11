@@ -6,7 +6,7 @@
 
 Умею общаться с бизнесом, доносить сложное простым языком, а так же представлять результаты анализа в понятной форме.
 
-#### Навыки и инструменты:
+#### Скиллы и инструменты:
 
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1C.svg" />
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/uzj.svg" />
@@ -16,8 +16,10 @@
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v0Y.svg" />
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1V.svg" /><br> <br/>
 
-#### Продуктовые навыки: 
+#### Продуктовые скиллы: 
 Метрики, воронки, когортный анализ, юнит-экономика, CJM, JTBD
+
+[Резюме](https://drive.google.com/file/d/1wsboDcDte_8d2lKNE9TrEk1OQSAFnVf0/view?usp=sharing)
 
 [Telegram](https://t.me/AnalystNikulina)
 
